@@ -1,0 +1,27 @@
+* {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: Verdana;
+  font-weight: normal;
+}
+h1 {
+  font-size: 50px;
+}
+h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+p {
+  font-size: 21px;
+  color: grey;
+  }
+.download {
+  color: aquamarine;
+  text-decoration: underline;
+  font-weight: 16px;
+}
+.copyright {
+    text-align: right;
+  color: grey;
+}
